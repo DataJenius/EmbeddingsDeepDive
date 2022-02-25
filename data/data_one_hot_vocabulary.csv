@@ -1,0 +1,831 @@
+"token_id","token","df_pol","df_con"
+1,"trump",1424,687
+2,"people",1025,856
+3,"biden",483,735
+4,"putin",743,462
+5,"russia",537,509
+6,"ukraine",357,396
+7,"time",286,357
+8,"country",254,288
+9,"russian",291,186
+10,"government",177,296
+11,"american",239,219
+12,"world",221,232
+13,"president",252,191
+14,"media",204,231
+15,"shit",216,206
+16,"support",297,149
+17,"war",178,217
+18,"party",289,133
+19,"america",201,187
+20,"left",136,256
+21,"election",224,142
+22,"democrats",231,136
+23,"bad",201,156
+24,"money",215,142
+25,"lot",194,150
+26,"white",180,153
+27,"power",147,187
+28,"vote",203,131
+29,"china",84,296
+30,"covid",132,183
+31,"real",139,162
+32,"literally",159,136
+33,"stop",130,146
+34,"school",145,125
+35,"political",153,117
+36,"fuck",124,144
+37,"care",132,133
+38,"hate",174,97
+39,"day",117,143
+40,"obama",107,156
+41,"sanctions",110,151
+42,"agree",128,129
+43,"military",136,120
+44,"pretty",145,112
+45,"guy",137,117
+46,"nato",141,112
+47,"person",162,97
+48,"americans",133,116
+49,"canada",39,389
+50,"politics",213,69
+51,"reason",122,119
+52,"yeah",131,105
+53,"makes",112,122
+54,"public",150,91
+55,"life",114,118
+56,"republicans",291,46
+57,"office",153,87
+58,"free",102,129
+59,"women",138,84
+60,"pay",128,90
+61,"republican",211,53
+62,"news",130,86
+63,"fucking",135,82
+64,"talking",109,100
+65,"understand",101,107
+66,"black",119,90
+67,"democracy",168,63
+68,"wrong",105,100
+69,"countries",97,106
+70,"hard",103,98
+71,"start",91,110
+72,"god",117,82
+73,"law",104,92
+74,"entire",88,105
+75,"call",98,90
+76,"conservative",90,98
+77,"means",91,95
+78,"run",99,87
+79,"remember",90,95
+80,"rights",73,117
+81,"win",105,81
+82,"border",87,95
+83,"policy",75,109
+84,"isn",97,84
+85,"house",113,69
+86,"job",119,65
+87,"move",98,77
+88,"won",88,85
+89,"stupid",84,89
+90,"feel",95,77
+91,"worse",88,83
+92,"matter",83,87
+93,"live",84,85
+94,"happen",69,101
+95,"conservatives",71,98
+96,"lol",89,78
+97,"absolutely",95,73
+98,"sense",84,82
+99,"history",74,93
+100,"called",85,80
+101,"civil",117,58
+102,"issue",88,77
+103,"majority",88,77
+104,"speech",123,55
+105,"social",69,97
+106,"love",84,79
+107,"invasion",78,84
+108,"ago",70,93
+109,"true",79,80
+110,"economy",84,75
+111,"system",84,73
+112,"joe",48,127
+113,"propaganda",78,78
+114,"wont",75,81
+115,"actual",86,69
+116,"hope",69,86
+117,"change",81,73
+118,"basically",72,82
+119,"taking",87,67
+120,"death",124,47
+121,"happened",82,70
+122,"times",72,79
+123,"anti",82,68
+124,"idea",86,64
+125,"foreign",56,97
+126,"gop",187,29
+127,"troops",76,71
+128,"past",74,72
+129,"situation",72,71
+130,"force",68,75
+131,"invade",67,75
+132,"gas",41,122
+133,"europe",51,98
+134,"freedom",43,116
+135,"rest",75,66
+136,"wing",97,51
+137,"read",81,61
+138,"voted",77,64
+139,"article",91,54
+140,"issues",75,65
+141,"wasnt",69,70
+142,"tax",90,53
+143,"completely",55,86
+144,"act",50,94
+145,"coming",58,81
+146,"line",81,58
+147,"single",81,58
+148,"nation",75,62
+149,"action",122,38
+150,"control",51,90
+151,"based",72,63
+152,"administration",47,95
+153,"truckers",34,130
+154,"wouldnt",76,58
+155,"democrat",73,60
+156,"current",74,58
+157,"united",69,62
+158,"economic",78,54
+159,"lost",69,61
+160,"elected",85,49
+161,"germany",40,104
+162,"talk",63,66
+163,"nazi",60,69
+164,"stand",64,64
+165,"hell",56,73
+166,"politicians",74,55
+167,"attack",135,30
+168,"half",65,62
+169,"wait",54,74
+170,"million",73,54
+171,"guess",61,64
+172,"leader",64,61
+173,"pro",66,59
+174,"guys",58,67
+175,"running",94,41
+176,"gonna",63,61
+177,"protest",41,93
+178,"liberal",40,93
+179,"simply",60,62
+180,"kids",59,63
+181,"started",57,65
+182,"authoritarian",47,78
+183,"dems",81,45
+184,"texas",75,48
+185,"smart",73,49
+186,"fascist",70,51
+187,"personal",118,30
+188,"genius",107,33
+189,"calling",72,49
+190,"days",51,69
+191,"oil",33,106
+192,"business",54,64
+193,"mind",56,61
+194,"honestly",53,64
+195,"ive",48,70
+196,"independent",58,57
+197,"lose",61,54
+198,"federal",68,48
+199,"response",58,56
+200,"russians",56,58
+201,"family",52,62
+202,"voters",94,34
+203,"national",56,57
+204,"laws",62,51
+205,"told",57,55
+206,"class",72,43
+207,"society",63,49
+208,"watch",39,79
+209,"voting",83,37
+210,"home",43,71
+211,"court",89,34
+212,"education",111,27
+213,"opinion",62,48
+214,"due",54,55
+215,"imagine",63,47
+216,"deal",48,61
+217,"fight",52,56
+218,"policies",51,57
+219,"question",57,49
+220,"argue",96,29
+221,"lives",48,58
+222,"democratic",107,26
+223,"list",111,25
+224,"living",54,51
+225,"weak",45,61
+226,"citizens",33,82
+227,"congress",82,33
+228,"prices",33,82
+229,"thinking",52,52
+230,"peace",55,49
+231,"major",47,57
+232,"hold",59,45
+233,"stuff",48,55
+234,"threat",40,66
+235,"police",26,101
+236,"children",41,64
+237,"energy",29,90
+238,"level",58,45
+239,"giving",48,54
+240,"comments",117,22
+241,"communist",49,52
+242,"allowed",42,60
+243,"hillary",76,33
+244,"racist",48,52
+245,"schools",52,48
+246,"bill",43,58
+247,"human",37,67
+248,"clinton",59,42
+249,"actions",55,45
+250,"workers",95,26
+251,"health",70,35
+252,"difference",52,47
+253,"paid",74,33
+254,"truth",44,55
+255,"afghanistan",41,59
+256,"le",51,47
+257,"legal",45,53
+258,"term",58,41
+259,"rule",108,22
+260,"mandates",31,76
+261,"pandemic",49,48
+262,"middle",46,51
+263,"set",53,44
+264,"blame",40,58
+265,"wouldn",47,49
+266,"heard",47,48
+267,"west",38,59
+268,"votes",56,40
+269,"bit",42,53
+270,"evil",42,53
+271,"damn",47,47
+272,"fair",45,49
+273,"head",45,49
+274,"post",44,50
+275,"presidency",51,43
+276,"word",53,41
+277,"elections",62,35
+278,"comment",50,43
+279,"plan",43,50
+280,"parents",45,47
+281,"bunch",42,50
+282,"population",52,40
+283,"anymore",45,46
+284,"hand",47,44
+285,"millions",44,47
+286,"violence",103,20
+287,"ban",92,22
+288,"usa",44,46
+289,"happening",31,65
+290,"future",50,40
+291,"totally",50,40
+292,"blm",24,82
+293,"fine",37,53
+294,"paying",63,31
+295,"attention",61,32
+296,"candidate",67,29
+297,"chinese",29,67
+298,"game",51,38
+299,"wasn",57,34
+300,"dead",41,47
+301,"including",49,39
+302,"bullshit",45,42
+303,"defend",37,51
+304,"continue",39,48
+305,"shouldnt",48,39
+306,"supporting",48,39
+307,"bank",30,62
+308,"top",60,31
+309,"poor",55,33
+310,"race",45,40
+311,"claim",56,32
+312,"reality",47,38
+313,"taxes",48,37
+314,"woman",59,30
+315,"protect",34,52
+316,"play",40,44
+317,"words",55,32
+318,"child",38,46
+319,"deaths",67,26
+320,"mexico",56,31
+321,"strong",56,31
+322,"amount",54,32
+323,"florida",82,21
+324,"nuclear",29,59
+325,"invading",51,33
+326,"red",46,36
+327,"stay",36,46
+328,"vaccine",23,72
+329,"crazy",40,41
+330,"racism",41,40
+331,"aign",78,21
+332,"realize",38,43
+333,"security",38,43
+334,"private",45,36
+335,"protests",26,62
+336,"information",42,38
+337,"southern",55,29
+338,"bring",53,30
+339,"bush",35,45
+340,"masks",30,52
+341,"sounds",52,30
+342,"idiots",37,42
+343,"worst",37,42
+344,"crime",36,43
+345,"evidence",44,35
+346,"north",35,44
+347,"easy",53,29
+348,"abortion",34,45
+349,"social media",25,61
+350,"ass",40,38
+351,"illegal",41,37
+352,"disagree",35,43
+353,"push",35,43
+354,"hear",50,30
+355,"rich",60,25
+356,"white house",44,34
+357,"idiot",51,29
+358,"fault",32,46
+359,"common",34,43
+360,"base",56,26
+361,"leave",28,52
+362,"dictator",44,33
+363,"position",45,32
+364,"chance",42,34
+365,"edit",46,31
+366,"fear",37,38
+367,"guns",25,56
+368,"risk",31,45
+369,"worth",39,35
+370,"piece",40,34
+371,"theyve",33,41
+372,"telling",45,30
+373,"joe biden",28,48
+374,"western",29,46
+375,"cost",43,31
+376,"close",49,27
+377,"buy",33,40
+378,"speak",33,40
+379,"leaders",28,47
+380,"takes",32,41
+381,"involved",31,42
+382,"trucks",25,52
+383,"similar",38,34
+384,"fake",29,44
+385,"market",35,36
+386,"invaded",33,38
+387,"playing",39,32
+388,"weeks",24,52
+389,"massive",29,43
+390,"hitler",31,40
+391,"dumb",41,30
+392,"directly",35,35
+393,"jobs",47,26
+394,"data",27,45
+395,"dollars",31,39
+396,"popular",31,39
+397,"decades",43,28
+398,"ground",40,30
+399,"nice",40,30
+400,"parties",46,26
+401,"story",34,35
+402,"aoc",54,22
+403,"defense",36,33
+404,"huge",33,36
+405,"insurrection",38,31
+406,"pushing",31,38
+407,"science",23,51
+408,"forget",39,30
+409,"southern border",45,26
+410,"held",40,29
+411,"choice",32,36
+412,"crimea",23,50
+413,"dude",46,25
+414,"sort",41,28
+415,"average",37,31
+416,"inflation",26,44
+417,"send",29,39
+418,"argument",32,35
+419,"companies",28,40
+420,"process",28,40
+421,"funny",26,43
+422,"week",26,43
+423,"allies",36,31
+424,"havent",36,31
+425,"global",27,41
+426,"joke",24,46
+427,"months",29,38
+428,"plenty",38,29
+429,"stopped",26,42
+430,"couldnt",34,32
+431,"folks",34,32
+432,"terms",32,34
+433,"enemy",35,31
+434,"reddit",31,35
+435,"communism",23,47
+436,"normal",25,43
+437,"statement",37,29
+438,"step",29,37
+439,"trust",26,41
+440,"shut",23,46
+441,"platform",34,31
+442,"putting",31,34
+443,"local",37,28
+444,"false",32,32
+445,"pass",32,32
+446,"forward",33,31
+447,"correct",30,34
+448,"doubt",34,30
+449,"view",34,30
+450,"trans",46,22
+451,"hit",31,32
+452,"build",30,33
+453,"lies",33,30
+454,"european",26,38
+455,"fall",34,29
+456,"tough",24,41
+457,"insane",35,28
+458,"lead",35,28
+459,"solution",36,27
+460,"forced",22,44
+461,"sexual",44,22
+462,"found",31,31
+463,"industry",40,24
+464,"biggest",33,29
+465,"blue",33,29
+466,"low",33,29
+467,"corrupt",28,34
+468,"foreign policy",21,45
+469,"ukrainian",23,41
+470,"students",47,20
+471,"honest",30,31
+472,"minority",31,30
+473,"consequences",29,32
+474,"moment",33,28
+475,"exist",27,34
+476,"thousands",27,34
+477,"expect",24,38
+478,"progressive",41,22
+479,"die",20,45
+480,"supposed",30,30
+481,"sad",28,32
+482,"board",27,33
+483,"hands",24,37
+484,"defending",26,34
+485,"justice",42,21
+486,"narrative",20,44
+487,"supporters",44,20
+488,"video",29,30
+489,"decided",28,31
+490,"mention",26,33
+491,"costs",29,29
+492,"friends",29,29
+493,"late",29,29
+494,"fascism",35,24
+495,"complete",27,31
+496,"effective",27,31
+497,"create",26,32
+498,"respect",32,26
+499,"killed",33,25
+500,"provide",34,24
+501,"perfect",28,29
+502,"south",28,29
+503,"couple",27,30
+504,"culture",30,27
+505,"listen",30,27
+506,"gun",26,31
+507,"answer",23,35
+508,"mask",23,35
+509,"follow",25,32
+510,"led",32,25
+511,"sick",33,24
+512,"ability",28,28
+513,"supreme court",56,14
+514,"individual",27,29
+515,"land",29,27
+516,"specifically",30,26
+517,"watching",20,39
+518,"decision",21,37
+519,"violent",21,37
+520,"type",25,31
+521,"dangerous",33,23
+522,"aid",36,21
+523,"fucked",27,28
+524,"happy",36,21
+525,"brain",25,30
+526,"service",30,25
+527,"simple",32,23
+528,"effect",21,35
+529,"easily",27,27
+530,"pull",27,27
+531,"cities",20,36
+532,"eastern",24,30
+533,"access",34,21
+534,"admit",23,31
+535,"form",31,23
+536,"straight",32,22
+537,"company",27,26
+538,"finally",26,27
+539,"press",27,26
+540,"sell",27,26
+541,"sending",26,27
+542,"speaking",20,35
+543,"fighting",29,24
+544,"increase",33,21
+545,"focus",30,23
+546,"kill",30,23
+547,"failed",31,22
+548,"ridiculous",22,31
+549,"conflict",27,25
+550,"total",27,25
+551,"considered",28,24
+552,"domestic",21,32
+553,"events",24,28
+554,"reading",28,24
+555,"reasons",32,21
+556,"weapons",24,28
+557,"created",23,29
+558,"save",29,23
+559,"white people",37,18
+560,"businesses",22,30
+561,"cut",22,30
+562,"obvious",33,20
+563,"front",31,21
+564,"wars",21,31
+565,"check",26,25
+566,"politician",26,25
+567,"short",25,26
+568,"spread",25,26
+569,"moving",27,24
+570,"constantly",28,23
+571,"enemies",28,23
+572,"lie",28,23
+573,"personally",23,28
+574,"funding",32,20
+575,"age",22,29
+576,"conspiracy",29,22
+577,"nazis",22,29
+578,"supports",30,21
+579,"agenda",24,26
+580,"flag",24,26
+581,"nonsense",26,24
+582,"prevent",24,26
+583,"california",27,23
+584,"hey",23,27
+585,"influence",27,23
+586,"pick",27,23
+587,"month",20,31
+588,"strategy",28,22
+589,"figure",21,29
+590,"sit",21,29
+591,"presidential",30,20
+592,"proof",25,24
+593,"results",30,20
+594,"brought",26,23
+595,"excuse",26,23
+596,"essentially",27,22
+597,"hurt",22,27
+598,"super",22,27
+599,"double",21,28
+600,"rate",21,28
+601,"experience",29,20
+602,"international",29,20
+603,"views",20,29
+604,"source",24,24
+605,"movement",25,23
+606,"wins",23,25
+607,"pretend",22,26
+608,"safe",26,22
+609,"territory",22,26
+610,"goal",27,21
+611,"puppet",20,28
+612,"republican party",70,8
+613,"trade",23,24
+614,"absolute",22,25
+615,"car",22,25
+616,"choose",25,22
+617,"openly",25,22
+618,"supported",25,22
+619,"jail",26,21
+620,"leadership",21,26
+621,"main",21,26
+622,"donald trump",49,11
+623,"fox news",53,10
+624,"responsible",23,23
+625,"recently",22,24
+626,"acting",21,25
+627,"avoid",25,21
+628,"break",21,25
+629,"destroy",25,21
+630,"media outlets",87,6
+631,"basic",20,26
+632,"cares",20,26
+633,"holy",26,20
+634,"cancel",23,22
+635,"kid",23,22
+636,"horrible",21,24
+637,"lmao",21,24
+638,"reasonable",24,21
+639,"throw",24,21
+640,"city",25,20
+641,"fun",20,25
+642,"january",25,20
+643,"theory",25,20
+644,"gas prices",11,44
+645,"concerned",23,21
+646,"ignore",21,23
+647,"federal government",21,23
+648,"apparently",20,24
+649,"decide",20,24
+650,"died",20,24
+651,"letting",20,24
+652,"compared",22,21
+653,"gotta",22,21
+654,"changed",23,20
+655,"definition",23,20
+656,"understanding",20,23
+657,"public health",37,12
+658,"financial",21,21
+659,"broken",22,20
+660,"decisions",22,20
+661,"medical",20,22
+662,"left wing",15,29
+663,"cool",20,21
+664,"opportunity",20,21
+665,"ran",21,20
+666,"invade ukraine",20,21
+667,"explain",20,20
+668,"makes sense",20,19
+669,"bank accounts",9,40
+670,"democratic party",45,7
+671,"middle class",22,14
+672,"american people",21,14
+673,"black people",22,13
+674,"biden administration",11,25
+675,"law enforcement",14,19
+676,"north korea",12,22
+677,"vast majority",13,19
+678,"holy shit",17,14
+679,"white supremacist",9,25
+680,"invading ukraine",20,11
+681,"cold war",10,20
+682,"climate change",12,16
+683,"white supremacy",10,19
+684,"anti american",14,13
+685,"peace force",20,9
+686,"strongest peace",19,9
+687,"strongest peace force",19,9
+688,"lot of people",21,8
+689,"civil war",11,14
+690,"trump was president",14,11
+691,"russian asset",25,6
+692,"stay home",10,15
+693,"army tanks",21,7
+694,"paying attention",15,9
+695,"piece of shit",11,12
+696,"common sense",8,16
+697,"free speech",5,25
+698,"held accountable",10,12
+699,"war with russia",12,10
+700,"nuclear war",13,9
+701,"status quo",14,8
+702,"european countries",9,12
+703,"section of ukraine",12,9
+704,"million people",15,7
+705,"national security",7,15
+706,"left leaning",9,11
+707,"fake news",7,14
+708,"world war",7,14
+709,"middle east",6,16
+710,"real life",12,8
+711,"hunter biden",15,6
+712,"pay attention",15,6
+713,"brain dead",8,11
+714,"majority of people",8,11
+715,"civil rights",12,7
+716,"ukraine putin",12,7
+717,"president trump",9,9
+718,"mainstream media",5,16
+719,"trump supporters",16,5
+720,"putin declares",11,7
+721,"totally agree",7,11
+722,"ukraine of ukraine",11,7
+723,"identity politics",15,5
+724,"pro life",5,15
+725,"conspiracy theory",9,8
+726,"sovereign nation",12,6
+727,"ukraine putin declares",10,7
+728,"current president",11,6
+729,"mask mandates",6,11
+730,"gonna keep peace",13,5
+731,"blm protests",9,7
+732,"conspiracy theories",9,7
+733,"entire world",9,7
+734,"popular vote",7,9
+735,"bernie sanders",12,5
+736,"health care",12,5
+737,"innocent people",5,12
+738,"russian invasion",10,6
+739,"russian troops",12,5
+740,"weeks ago",5,12
+741,"eastern europe",8,7
+742,"genius putin",8,7
+743,"jesus christ",8,7
+744,"national guard",8,7
+745,"president biden",7,8
+746,"real world",7,8
+747,"nato countries",5,11
+748,"word salad",5,11
+749,"bad guys",6,9
+750,"public schools",6,9
+751,"makes no sense",6,9
+752,"hundreds of thousands",13,4
+753,"due process",5,10
+754,"eastern ukraine",5,10
+755,"tax dollars",5,10
+756,"house and senate",10,5
+757,"bad guy",7,7
+758,"russia invaded",7,7
+759,"vote for trump",7,7
+760,"democrat party",6,8
+761,"free market",6,8
+762,"free world",6,8
+763,"invaded ukraine",6,8
+764,"months ago",6,8
+765,"russian military",8,6
+766,"vladimir putin",6,8
+767,"pro russia",9,5
+768,"russian gas",5,9
+769,"russian propaganda",9,5
+770,"fucking stupid",6,7
+771,"presidential election",7,6
+772,"sleepy joe",6,7
+773,"trump administration",6,7
+774,"press conference",8,5
+775,"pro russian",8,5
+776,"real estate",8,5
+777,"television screen",8,5
+778,"tulsi gabbard",8,5
+779,"western countries",5,8
+780,"genius putin declares",8,5
+781,"wonderful so putin",8,5
+782,"voted for trump",13,3
+783,"false flag",6,6
+784,"wear a mask",6,6
+785,"american history",5,7
+786,"current situation",5,7
+787,"health insurance",7,5
+788,"join nato",5,7
+789,"presidential candidate",7,5
+790,"russia invading",7,5
+791,"world stage",7,5
+792,"bad people",5,6
+793,"entire life",5,6
+794,"feel free",6,5
+795,"intelligence agencies",5,6
+796,"major cities",5,6
+797,"party lines",5,6
+798,"pretty bad",6,5
+799,"regular people",5,6
+800,"stupid shit",6,5
+801,"invasion of ukraine",10,3
+802,"russia and china",3,10
+803,"black and white",7,4
+804,"china and russia",3,9
+805,"bill clinton",5,5
+806,"people voted",5,5
+807,"trump literally",5,5
+808,"voter base",5,5
+809,"bunch of people",3,8
+810,"oil and gas",3,8
+811,"read the article",8,3
+812,"rule of law",8,3
+813,"start a war",4,6
+814,"tens of millions",8,3
+815,"millions of dollars",3,7
+816,"millions of people",3,7
+817,"freedom of speech",5,4
+818,"lost the election",5,4
+819,"period of time",4,5
+820,"sanctions on russia",4,5
+821,"thousands of people",3,6
+822,"trump and putin",6,3
+823,"portion of ukraine",4,4
+824,"amount of time",5,3
+825,"lots of people",3,5
+826,"tough on russia",3,5
+827,"happened under trump",3,4
+828,"plenty of people",3,4
+829,"voted for biden",3,4
+830,"won the election",4,3
